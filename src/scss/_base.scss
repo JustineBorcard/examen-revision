@@ -33,8 +33,26 @@ body {
   line-height: 1.25;
 }
 
+.nav {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link {
+  margin: 0 16px;
+  color: #333;
+}
+
 a {
   color: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
 }
 
 img,

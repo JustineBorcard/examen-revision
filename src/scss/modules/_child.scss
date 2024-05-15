@@ -1,6 +1,14 @@
 .child {
   display: flex;
-  width: 82px;
+  height: 62px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border: 1px solid #0d47a1;
+  background: #42a5f5;
+}
+.child-third {
   height: 62px;
   padding: 20px;
   justify-content: center;
